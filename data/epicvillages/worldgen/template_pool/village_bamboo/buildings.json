@@ -77,6 +77,24 @@
     {
       "weight": 1,
       "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/church_bamboo",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "epicvillages:village_bamboo/houses/residence/weaponsmith_bamboo",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
         "element_type": "minecraft:empty_pool_element"
       }
     }

@@ -77,6 +77,24 @@
     {
       "weight": 1,
       "element": {
+        "location": "epicvillages:village_cherry/houses/residence/church_cherry",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "epicvillages:village_cherry/houses/residence/weaponsmith_cherry",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
         "element_type": "minecraft:empty_pool_element"
       }
     }
