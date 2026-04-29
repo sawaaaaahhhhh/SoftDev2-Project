@@ -1,0 +1,160 @@
+{
+    "trades": [
+        {
+            "wants": [
+                {
+                    "item": "minecraft:bamboo",
+                    "quantity": 8
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:arrow",
+                    "quantity": 8
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 1
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:bamboo",
+                    "quantity": 6
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:stick",
+                    "quantity": 8
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 1
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:bamboo",
+                    "quantity": 8
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:flint",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 1
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:string",
+                    "quantity": 4
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:bow",
+                    "quantity": 1
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 2
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:string",
+                    "quantity": 3
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:tripwire_hook",
+                    "quantity": 2
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 2
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:string",
+                    "quantity": 4
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:crossbow",
+                    "quantity": 1
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 2
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:slime_ball",
+                    "quantity": 2
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:bow",
+                    "quantity": 1,
+                    "nbt": "{Enchantments:[{id:\"minecraft:power\",lvl:1}]}"
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 5
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:slime_ball",
+                    "quantity": 3
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:crossbow",
+                    "quantity": 1,
+                    "nbt": "{Enchantments:[{id:\"minecraft:multishot\",lvl:1}]}"
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 5
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:slime_ball",
+                    "quantity": 2
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:tipped_arrow",
+                    "quantity": 4,
+                    "nbt": "{Potion:\"minecraft:slowness\"}"
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 5
+        }
+    ]
+}

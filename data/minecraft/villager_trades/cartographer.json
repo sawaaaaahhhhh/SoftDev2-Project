@@ -1,0 +1,158 @@
+{
+    "trades": [
+        {
+            "wants": [
+                {
+                    "item": "minecraft:cocoa_beans",
+                    "quantity": 6
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:paper",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 1
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:cocoa_beans",
+                    "quantity": 8
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:ink_sac",
+                    "quantity": 3
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 1
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:cocoa_beans",
+                    "quantity": 6
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:compass",
+                    "quantity": 1
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 1
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:feather",
+                    "quantity": 3
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:map",
+                    "quantity": 2
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 2
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:feather",
+                    "quantity": 4
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:clock",
+                    "quantity": 1
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 2
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:feather",
+                    "quantity": 3
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:banner_pattern",
+                    "quantity": 1
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 2
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:melon",
+                    "quantity": 2
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:filled_map",
+                    "quantity": 1
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 5
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:melon",
+                    "quantity": 3
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:filled_map",
+                    "quantity": 1,
+                    "nbt": "{map_is_scaling:1b,Decorations:[{id:\"jungle_temple\",type:5,x:0,z:0,rot:0.0}]}"
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 5
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:melon",
+                    "quantity": 2
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:spyglass",
+                    "quantity": 1
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 5
+        }
+    ]
+}

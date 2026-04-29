@@ -1,0 +1,327 @@
+{
+    "trades": [
+        {
+            "wants": [
+                {
+                    "item": "minecraft:dandelion",
+                    "quantity": 5
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:stone_bricks",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 1
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:poppy",
+                    "quantity": 5
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:cobblestone",
+                    "quantity": 8
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 1
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:oxeye_daisy",
+                    "quantity": 5
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:granite",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 1
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:lily_of_the_valley",
+                    "quantity": 5
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:diorite",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 1
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:azure_bluet",
+                    "quantity": 5
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:andesite",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 1
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:allium",
+                    "quantity": 5
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:stone_slab",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 1
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:blue_orchid",
+                    "quantity": 5
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:stone_stairs",
+                    "quantity": 2
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 1
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:cornflower",
+                    "quantity": 5
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:stone_brick_wall",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 1
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:pink_petals",
+                    "quantity": 3
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:polished_granite",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 2
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:pink_petals",
+                    "quantity": 4
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:polished_diorite",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 2
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:pink_petals",
+                    "quantity": 3
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:quartz_block",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 2
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:pink_petals",
+                    "quantity": 4
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:quartz_pillar",
+                    "quantity": 2
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 2
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:pink_petals",
+                    "quantity": 3
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:chiseled_quartz_block",
+                    "quantity": 2
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 2
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:pink_petals",
+                    "quantity": 4
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:pink_terracotta",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 2
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:honeycomb",
+                    "quantity": 2
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:calcite",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 5
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:honeycomb",
+                    "quantity": 3
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:dripstone_block",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 5
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:honeycomb",
+                    "quantity": 2
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:pink_glazed_terracotta",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 5
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:honeycomb",
+                    "quantity": 3
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:quartz_bricks",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 5
+        },
+        {
+            "wants": [
+                {
+                    "item": "minecraft:honeycomb",
+                    "quantity": 2
+                }
+            ],
+            "gives": [
+                {
+                    "item": "minecraft:smooth_quartz",
+                    "quantity": 4
+                }
+            ],
+            "maxUses": 4,
+            "rewardExp": true,
+            "xp": 5
+        }
+    ]
+}
